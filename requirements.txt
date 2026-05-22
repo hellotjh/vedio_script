@@ -1,0 +1,5 @@
+streamlit
+requests
+langchain-core
+langchain-openai
+dask[array]
